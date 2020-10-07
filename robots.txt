@@ -1,0 +1,5 @@
+Sitemap: http://scotticles/sitemap.xml
+User-Agent: *
+Disallow:
+
+
