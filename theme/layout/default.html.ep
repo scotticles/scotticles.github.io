@@ -6,6 +6,7 @@
         <link rel="stylesheet" href="/theme/css/normalize.css" />
         <link rel="stylesheet" href="/theme/css/skeleton.css" />
         <link rel="stylesheet" href="/theme/css/statocles-default.css" />
+        <link rel="stylesheet" href="/theme/css/statocles-custom.css" />
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <title><%== $self->title ? $self->title . ' - ' : '' %><%== $site->title %></title>
         % if ( my $author = $self->author ) {
