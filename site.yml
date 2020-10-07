@@ -39,7 +39,7 @@ site:
     #
     # If the base_url contains a path, all internal links will be
     # rewritten appropriately.
-    base_url: 'http://scotticles'
+    base_url: 'https://scotticles.github.io'
 
     # apps: These are the applications in this site. The name of the app,
     # "blog", "page", or "static", is used to refer to it in commands.
@@ -103,7 +103,7 @@ theme:
 # for a full list of attributes and what they do.
 deploy:
     $class: Statocles::Deploy::File
-    path: ./docs
+    path: "./docs"
 
 #----------------------------------------------------------------------------
 # Applications

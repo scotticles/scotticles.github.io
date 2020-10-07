@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Scotticles.me</title>
-        <link>http://scotticles/blog/</link>
-        <atom:link href="http://scotticles/blog/index.rss" rel="self" type="application/rss+xml" />
+        <link>https://scotticles.github.io/blog/</link>
+        <atom:link href="https://scotticles.github.io/blog/index.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Scotticles.me</description>
         <generator>Statocles 0.097</generator>
         <item>
             <title>First Post</title>
-            <link>http://scotticles/blog/2020/10/07/first-post/</link>
-            <guid>http://scotticles/blog/2020/10/07/first-post/</guid>
+            <link>https://scotticles.github.io/blog/2020/10/07/first-post/</link>
+            <guid>https://scotticles.github.io/blog/2020/10/07/first-post/</guid>
             <description><![CDATA[
                 <h1>Welcome To Your Blog</h1>
 
@@ -28,8 +28,8 @@ content</a></p>
         </item>
         <item>
             <title>testing_git_pages</title>
-            <link>http://scotticles/blog/2020/10/07/testing_git_pages/</link>
-            <guid>http://scotticles/blog/2020/10/07/testing_git_pages/</guid>
+            <link>https://scotticles.github.io/blog/2020/10/07/testing_git_pages/</link>
+            <guid>https://scotticles.github.io/blog/2020/10/07/testing_git_pages/</guid>
             <description><![CDATA[
                 <h1>HELLO THIS IS A TEST</h1>
 

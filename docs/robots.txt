@@ -1,4 +1,4 @@
-Sitemap: http://scotticles/sitemap.xml
+Sitemap: https://scotticles.github.io/sitemap.xml
 User-Agent: *
 Disallow:
 

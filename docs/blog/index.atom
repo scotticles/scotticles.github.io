@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://scotticles/blog/</id>
+    <id>https://scotticles.github.io/blog/</id>
     <title>Scotticles.me</title>
     <updated>2020-10-07T00:00:00Z</updated>
-    <link href="http://scotticles/blog/index.atom" rel="self" />
-    <link href="http://scotticles/blog/" rel="alternate" />
+    <link href="https://scotticles.github.io/blog/index.atom" rel="self" />
+    <link href="https://scotticles.github.io/blog/" rel="alternate" />
     <generator version="0.097">Statocles</generator>
 
     <entry>
-        <id>http://scotticles/blog/2020/10/07/first-post/</id>
+        <id>https://scotticles.github.io/blog/2020/10/07/first-post/</id>
         <title>First Post</title>
-        <link href="http://scotticles/blog/2020/10/07/first-post/" rel="alternate" />
+        <link href="https://scotticles.github.io/blog/2020/10/07/first-post/" rel="alternate" />
         <content type="html"><![CDATA[
             <h1>Welcome To Your Blog</h1>
 
@@ -26,9 +26,9 @@ content</a></p>
         <updated>2020-10-07T00:00:00Z</updated>
     </entry>
     <entry>
-        <id>http://scotticles/blog/2020/10/07/testing_git_pages/</id>
+        <id>https://scotticles.github.io/blog/2020/10/07/testing_git_pages/</id>
         <title>testing_git_pages</title>
-        <link href="http://scotticles/blog/2020/10/07/testing_git_pages/" rel="alternate" />
+        <link href="https://scotticles.github.io/blog/2020/10/07/testing_git_pages/" rel="alternate" />
         <content type="html"><![CDATA[
             <h1>HELLO THIS IS A TEST</h1>
 
