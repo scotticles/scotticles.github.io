@@ -65,7 +65,7 @@ site:
         $ref: 'theme'
 
     # index: The path to the page that should be used for the site index.
-    index: '/blog'
+    index: '/page'
 
     # nav: These are lists of navigation links used by the theme.
     # Navigations are used to move between applications, or to go to
@@ -80,7 +80,7 @@ site:
     nav:
         main:
             - text: 'Blog'
-              href: '/'
+              href: '/blog'
 
     # deploy: This is the deploy object, used to deploy this site.
     deploy:

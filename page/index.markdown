@@ -1,11 +1,7 @@
 ---
-title: Main Page
+title: Welcome
 ---
 
-# Welcome To Your Site
+#### Welcome To Scotticles.me
 
-This is your first page. To edit this page, open up <%= $self->path %>
-in your text editor.
-
-[Check the documentation for how to write Statocles
-content](http://preaction.me/statocles/pod/Statocles/Help/Content)
+Hang tight while I get these theme looking good.

@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://scotticles.github.io/</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2020-10-07</lastmod>
-    </url>
-    <url>
-        <loc>https://scotticles.github.io/blog/2020/10/07/first-post/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2020-10-07</lastmod>
-    </url>
-    <url>
-        <loc>https://scotticles.github.io/blog/2020/10/07/testing_git_pages/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <lastmod>2020-10-07</lastmod>
-    </url>
-    <url>
-        <loc>https://scotticles.github.io/page/</loc>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <lastmod>2020-10-07</lastmod>
